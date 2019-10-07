@@ -1,7 +1,13 @@
-De intentie van deze web app is om het kaartspel "Cards against humanity" online te kunnen spelen met je vrienden.
+De intentie van deze web applicatie is om het kaartspel "Cards against humanity" online te kunnen spelen met je vrienden.
 
-Je krijgt een base card en daarop moet iedere speler een passend antwoord geven (één van hun eigen kaarten), daarna zal de kaartlezer kiezen wie zijn antwoord de beste was. 
+Spelregels:
 
-De real-time data die we zouden kunnen toevoegen is een chatroom en de gekozen kaarten van de spelers die live worden getoond.
+Elke speler raapt tien witte kaarten. Iedere ronde is 1 iemand Card Czar en speelt deze een zwarte kaart. De andere spelers beantwoorden de kaart met een witte kaart en spelen deze door naar de Card Czar. De Card Czar schudt de antwoorden en deelt de kaartcombinaties met de groep. De Card Czar kiest de grappigste combinatie uit en de winnaar krijgt een punt. Na elke ronde raapt iedereen een nieuwe witte kaart en wordt de rol van Card Czar doorgeschoven.
 
-we kunnen onze eigen api gaan maken met eigen data (nederlands kaarten in dit geval) of we kunnen gaan werken met deze api: https://crhallberg.com/cah/, aan de hand van deze api kunnen we gaan specifieke decks selecteren die we toevoegen aan onze eigen api/database, zo hoeven we niet onze eigen data aan te maken en kunnen we snel beginnen aan onze web app.
+Realtime gedeelte:
+
+1) Als iemand op zijn scherm een kaart kiest zal deze direct getoond worden op de Card Czar zijn scherm
+2) Chatroom
+
+API:
+We kunnen onze API opvullen met zelf gemaakte kaarten of we kunnen een externe api gebruiken om onze kaarten aan te vullen (https://crhallberg.com/cah/). Aan de hand van deze API kunnen we voorgemaakte decks selecteren en deze toevoegen aan onze database. Zo hoeven we minder eigen data te maken en sneller beginnen aan onze web applicatie.
