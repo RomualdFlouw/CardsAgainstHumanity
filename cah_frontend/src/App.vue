@@ -1,11 +1,19 @@
 <template>
-<div>
-  <div class="main_header">
-    <h1>Card Against Humanity</h1>
-  </div>
-    <router-view/>
-</div>
-</template>
+  <router-view></router-view>
+</template> 
+
+<script>
+import Container from './components/Layout/Container';
+import Row from './components/Layout/Row';
+
+export default {
+  components: {
+    Container,
+    Row
+  }
+}
+</script>
 
 <style lang="scss">
+@import '@/assets/style/screen';
 </style>
