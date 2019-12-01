@@ -5,7 +5,6 @@
         <div></div>
         <div class="lobby_members">
             <div class="members_card">
-                <img class="members_card__img" src="@/assets/img/avatar1.png">
                 <div class="center_vertical">
                     <div></div>
                     <p class="members_card__text">romuald</p>
@@ -13,35 +12,30 @@
                 </div>
             </div>
                         <div class="members_card">
-                <img class="members_card__img" src="@/assets/img/avatar1.png">
                 <div class="center_vertical">
                     <div></div>
                     <p class="members_card__text">romuald</p>
                     <p></p>
                 </div>
             </div>            <div class="members_card">
-                <img class="members_card__img" src="@/assets/img/avatar1.png">
                 <div class="center_vertical">
                     <div></div>
                     <p class="members_card__text">romuald</p>
                     <p></p>
                 </div>
             </div>            <div class="members_card">
-                <img class="members_card__img" src="@/assets/img/avatar1.png">
                 <div class="center_vertical">
                     <div></div>
                     <p class="members_card__text">romuald</p>
                     <p></p>
                 </div>
             </div>            <div class="members_card">
-                <img class="members_card__img" src="@/assets/img/avatar1.png">
                 <div class="center_vertical">
                     <div></div>
                     <p class="members_card__text">romuald</p>
                     <p></p>
                 </div>
             </div>            <div class="members_card">
-                <img class="members_card__img" src="@/assets/img/avatar1.png">
                 <div class="center_vertical">
                     <div></div>
                     <p class="members_card__text">romuald</p>

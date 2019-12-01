@@ -1,31 +1,39 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Login from '../views/Login.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: Home
-  },
-  {
-    path: '/about',
-    name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
-  },
-  {
-    path: '/login',
     name: 'login',
+    component: Login
+  },
+  {
+    path: '/lobby',
+    name: 'lobby',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/Login.vue')
-  }
+    component: () => import(/* webpackChunkName: "about" */ '../views/Lobby.vue')
+  },  
+  {
+    path: '/game',
+    name: 'game',
+    // route level code-splitting
+    // this generates a separate chunk (game.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "game" */ '../views/Game.vue')
+  },
+  {
+    path: '/leaderboard',
+    name: 'leaderboard',
+    // route level code-splitting
+    // this generates a separate chunk (leaderboard.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "leaderboard" */ '../views/Leaderboard.vue')
+  },
 ]
 
 const router = new VueRouter({

@@ -3,8 +3,7 @@ body{
     font: 20px/1.5 'Arimo', sans-serif;
     color: $global-textColor;
     background-color: $global-backgroundColor;
-    width: 100%;
-    height: 100%;
+    font-weight: bold;
 }
 
 h1,
@@ -16,6 +15,72 @@ p{
 }
 
 h1,
-h2{
+h2,
+h3{
     text-align: center;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+.logo{
+    
+    margin: 100px auto 0;
+    width: 80%;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    
+    margin: auto auto 0;
+    width: 40%;    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.button{
+    width: 48%;
+    height: 20%;
+    align-self: center;
+
+    text-align: center;
+    background-color: $global-buttonColor;
+    border: none;
+    border-radius: 2px;
+
+    color:$global-textColor;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+
+    padding: 3% 2%;
+    
+    margin-top: 2%;
+}
+.button:hover{
+    background-color: #56A231;
+}
+.horizontal_centering{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.vertical_centering{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: auto;
 }
