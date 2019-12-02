@@ -1,0 +1,21 @@
+.home{
+    width: 100%;
+    height: 100%;
+}
+
+.home_header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+}
+.header_logout{
+    margin-top: 2%;
+    margin-right: 2%;
+}
+
+.home_content{
+    width: 100%;
+    height: 100%;
+    margin-top: 10%;
+}

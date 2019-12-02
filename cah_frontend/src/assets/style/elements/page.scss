@@ -44,6 +44,7 @@ h3{
     
     margin: auto auto 0;
     width: 40%;    
+    min-width: 360px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -51,8 +52,9 @@ h3{
 }
 
 .button{
-    width: 48%;
+    width: 60%;
     height: 20%;
+    max-width: 320px;
     align-self: center;
 
     text-align: center;
@@ -69,8 +71,35 @@ h3{
     
     margin-top: 2%;
 }
+
 .button:hover{
-    background-color: #56A231;
+    background-color: $global-buttonHoverColor;
+}
+
+.red_button{
+    width: 60%;
+    height: 20%;
+    max-width: 320px;
+
+    align-self: center;
+
+    text-align: center;
+    background-color: $global-redButtonColor;
+    border: none;
+    border-radius: 2px;
+
+    color:$global-textColor;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+
+    padding: 3% 2%;
+    
+    margin-top: 2%;
+}
+
+.red_button:hover{
+    background-color: $global-redButtonHoverColor;
 }
 .horizontal_centering{
     display: flex;

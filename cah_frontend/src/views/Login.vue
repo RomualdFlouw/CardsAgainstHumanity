@@ -26,7 +26,7 @@ export default {
               console.log("is empty");
           }else{
               this.$store.dispatch("loginToken", {UserName : nickname});
-              this.$router.push('lobby')
+              this.$router.push({ path: `/home/${nickname}` }) // -> /user/123
           }
       }
   }

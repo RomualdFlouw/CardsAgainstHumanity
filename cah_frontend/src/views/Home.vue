@@ -1,19 +1,34 @@
 <template>
-    <div class="main_setup center_vertical">
-      <div></div>
-      <div class="main_content">
-          <h1 class="setup_header__text">Cards Against Humanity</h1>
-          <game></game>
+    <div class="home">
+      <div class="home_header">
+        <router-link class="header_logout" v-on:click="logoutFunction" to="/">
+          <svg class="" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 17l5-5-5-5M19.8 12H9M10 3H4v18h6"/></svg>
+        </router-link>
       </div>
-      <div></div>
-  </div>
+        <h1 class="logo">Cards Against Humanity</h1>
+        <div class="home_content">
+          <lobby :nickname="this.$route.params.nickname"/>
+        </div>
+    </div>
 </template>
 <script>
-// @ is an alias to /src
+import Lobby from '../components/Lobby';
 
 export default {
-  name: 'home',
-  components: {
-  }
+    name: 'home',
+    data(){
+        return{
+            nickname: this.$route.params.nickname
+        }
+    },
+    components:{
+      Lobby
+    },
+    methods:{
+        logoutFunction: function(){
+          this.$store.dispatch('logout');
+          this.$router.back('login');
+        }
+    }
 }
 </script>
