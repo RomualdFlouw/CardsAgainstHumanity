@@ -38,6 +38,7 @@ export default {
         getReady: function(){
             this.isReady = !this.isReady;
             localStorage.setItem('readyState', this.isReady);
+            this.$router.push({ path: `/game/${this.nickname}` })
       }
     },
     created(){
