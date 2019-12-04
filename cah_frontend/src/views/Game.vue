@@ -25,7 +25,7 @@
                     <h3 class="cards_title_black">{{chosenCardText}}</h3>
                 </div>
             </div>
-            <input v-show="chosenCard" class="game_content__submit" type="submit">
+            <input v-show="chosenCard" v-on:click="sendChosenCard(chosenCardText)" class="game_content__submit" type="submit" value="confirm"> 
             <div class="game_content__cards">
                 <div class="cards_container">
                     <cards @clicked="onClickChild" v-for="c in cards" :key="c.id" :cardText="c.cardText" :cardIndex="c.cardIndex" />
@@ -71,10 +71,14 @@ export default {
             this.$router.back('login');
             window.localStorage.removeItem('readyState');
         },
-        onClickChild (value) {
+        onClickChild: function (value) {
             this.chosenCard = true // someValue
             this.chosenCard = true // someValue
             this.chosenCardText = this.cards[value].cardText // someValue
+        },
+        sendChosenCard: function (value){
+            console.log("nu zou de card moeten doorgestuurd worden" + value);
+              this.$router.push({ path: `/leaderboard` }) // -> /user/123
         }
     }
 }

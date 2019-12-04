@@ -122,5 +122,28 @@
   }
 
   .game_content__submit{
-      
-  }
+    width: 20%;
+    min-width: 120px;
+
+    align-self: center;
+
+    text-align: center;
+    background-color: transparent;
+    border: solid 2px;
+    border-radius: 50px;
+
+    color:$global-textColor;
+    font-size: $global-cardfontsize;
+    font-weight: bold;
+    cursor: pointer;
+
+    padding: 2% 2%;
+    margin-top: 5%;
+}
+
+.game_content__submit:hover{
+    background-color: $global-textColor;
+    border: solid 4px $global-backgroundColor;
+    color: $global-backgroundColor;
+
+}
