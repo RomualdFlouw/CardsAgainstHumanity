@@ -4,7 +4,6 @@ import './registerServiceWorker'
 import router from './router'
 import store from './store'
 import axios from 'axios'
-import lobbyHub from './lobby-hub'
 
 Vue.config.productionTip = false
 
@@ -13,9 +12,6 @@ axios.interceptors.request.use(request => {
      'Bearer ' + store.state.jwtToken
   return request
 })
-
-// Install Vue extensions
-Vue.use(lobbyHub)
 
 new Vue({
   router,
