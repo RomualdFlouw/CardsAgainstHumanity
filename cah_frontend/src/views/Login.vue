@@ -15,6 +15,7 @@
         type="submit"
         value="Send"
       />
+      <h2 class="login_errorMessage">{{ errorMessage }}</h2>
     </div>
   </div>
 </template>
@@ -24,7 +25,8 @@ export default {
   name: "login",
   data() {
     return {
-      nickname: null
+      nickname: null,
+      errorMessage: null
     };
   },
   components: {},
@@ -33,25 +35,29 @@ export default {
       console.log(nickname);
       if (nickname == null || nickname == "") {
         console.log("is empty");
+        this.errorMessage = "The input field is empty, please type a username.";
       } else {
+        this.errorMessage = null;
         this.$lobbyHub.LoginUser({ Name: nickname, ReadyState: false });
       }
     },
     UsernameChecked: function(isAvailable){
       if (isAvailable) {
+        this.errorMessage = null;
         this.$router.push({ path: `/home/${this.nickname}` }); // -> /user/123
       } else {
         console.log("username already taken");
-        // TODO 
-        // WRITE CODE TO DISPLAY THAT USERNAME IS TAKEN ON THE WEBSITE
+        this.errorMessage = "This username is already in use.";
       }
     },
     LobbyFull: function(){
       console.log("Lobby is full");
+        this.errorMessage = "The lobby is full.";
     }
 
   },
   created() {
+    console.log("reset");
     this.$store.dispatch("loginToken");
     this.$lobbyHub.$on("username-checked", this.UsernameChecked);
     this.$lobbyHub.$on("lobby-full", this.LobbyFull);
