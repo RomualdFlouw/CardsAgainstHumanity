@@ -1,11 +1,15 @@
 <template>
 <div class="lobby">
-    <div >
+    <div>
         <lobbymembers  v-for="p in players" :key="p.id" :username="p.name" :isReady="p.readyState"/>
     </div>
-    <input v-show="!isReady" v-on:click="getReady()" class="button" type="submit" value="Ready" >
-    <h2 v-show="isReady">waiting for everyone to get ready...</h2>
-    <input v-show="isReady" v-on:click="getReady()" class="red_button" type="submit" value="UnReady" >
+    <div v-show="!gameStarting">
+        <input v-show="!isReady" v-on:click="getReady()" class="button" type="submit" value="Ready" >
+        <h2 v-show="isReady">waiting for everyone to get ready...</h2>
+        <input v-show="isReady" v-on:click="getReady()" class="red_button" type="submit" value="UnReady" >
+    </div>
+    <h2 v-show="gameStarting">everyone is ready starting game in {{visualCounter}} secs...</h2>
+
 
 </div>
 
@@ -19,7 +23,9 @@ export default {
         return{
             players:[],
             isReady: false,
-            gameStarting: false
+            gameStarting: false,
+            gameCountdown: 15,
+            visualCounter: null
         }
     },
     props:{
@@ -47,14 +53,16 @@ export default {
         StartCountdownToGame: function(){
             console.log("STARTING COUNTDOWN TO GAME");
             this.gameStarting = true;
-            //TODO ADD COUNTDOWN TIMER
-            //TODO DISABLE BUTTON
+            var timerId = setInterval(countdown, 1000);
         },
-        StopCountdownToGame: function(){
-            console.log("STOPPING COUNTDOWN TO GAME");
-            this.gameStarting = false;
-            //TODO ADD COUNTDOWN TIMER
-            //TODO DISABLE BUTTON
+        countdown: function(){
+            if (this.gameCountdown == 0) {
+                clearTimeout(this.timerId);
+                //ga naar de game
+            } else {
+                this.visualCounter = this.gameCountdown;
+                this.gameCountdown--;
+            }
         }
 
 

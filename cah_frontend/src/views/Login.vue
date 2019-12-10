@@ -37,6 +37,8 @@ export default {
         console.log("is empty");
         this.errorMessage = "The input field is empty, please type a username.";
       } else {
+        this.$router.push({ path: `/home/${this.nickname}` }); // -> /user/123
+        
         this.errorMessage = null;
         this.$lobbyHub.LoginUser({ Name: nickname, ReadyState: false });
       }
