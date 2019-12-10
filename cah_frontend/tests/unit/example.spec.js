@@ -1,12 +1,18 @@
-import { shallowMount } from '@vue/test-utils'
-import HelloWorld from '@/components/HelloWorld.vue'
+import Lobby from '@/components/Lobby.vue'
 
-describe('HelloWorld.vue', () => {
-  it('renders props.msg when passed', () => {
-    const msg = 'new message'
-    const wrapper = shallowMount(HelloWorld, {
-      propsData: { msg }
-    })
-    expect(wrapper.text()).toMatch(msg)
+// Here are some Jasmine 2.0 tests, though you can
+// use any test runner / assertion library combo you prefer
+describe('Lobby', () => {
+  // Inspect the raw component options
+  it('has a created hook', () => {
+    expect(typeof Lobby.created).toBe('function')
+  })
+
+  // Evaluate the results of functions in
+  // the raw component options
+  it('sets the correct default data', () => {
+    expect(typeof Lobby.data).toBe('function')
+    const defaultData = Lobby.data()
+    expect(defaultData.isReady).toBe(false)
   })
 })
