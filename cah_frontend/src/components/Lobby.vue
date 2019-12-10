@@ -36,7 +36,6 @@ export default {
     },
     methods:{
         getReady: function(){
-            //this.$router.push({ path: `/game/${this.nickname}` })
             if (this.gameStarting){
                 return;
             };
@@ -58,7 +57,7 @@ export default {
         countdown: function(){
             if (this.gameCountdown == 0) {
                 clearTimeout(this.timerId);
-                //ga naar de game
+                this.$router.push({ path: `game` });
             } else {
                 this.visualCounter = this.gameCountdown;
                 this.gameCountdown--;
