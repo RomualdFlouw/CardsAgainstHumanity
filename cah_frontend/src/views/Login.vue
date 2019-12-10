@@ -52,7 +52,7 @@ export default {
     },
     LobbyFull: function(){
       console.log("Lobby is full");
-        this.errorMessage = "The lobby is full.";
+        this.errorMessage = "The lobby is full or game has already started.";
     }
 
   },
