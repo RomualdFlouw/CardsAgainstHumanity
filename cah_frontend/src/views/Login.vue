@@ -1,19 +1,19 @@
 <template>
   <div class="login">
-    <h1 class="logo">Cards Against Humanity</h1>
+    <h1 class="logo">{{$t("GAME_TITLE")}}</h1>
     <div class="content">
       <input
         v-model="nickname"
         class="login_input"
         type="text"
-        placeholder="Type your nickname"
+        :placeholder="`${this.$t('INPUT_PLACEHOLDER')}`"
         id="nickname"
       />
       <input
         v-on:click="login(nickname)"
         class="button"
         type="submit"
-        value="Send"
+        :value="`${this.$t('INPUT_BUTTON_TEXT')}`"
       />
       <h2 class="login_errorMessage">{{ errorMessage }}</h2>
     </div>
@@ -34,8 +34,7 @@ export default {
     login: function(nickname) {
       console.log(nickname);
       if (nickname == null || nickname == "") {
-        console.log("is empty");
-        this.errorMessage = "The input field is empty, please type a username.";
+        this.errorMessage = this.$t('LOGIN_ERROR_EMPTY');
       } else {
         this.errorMessage = null;
         this.$lobbyHub.LoginUser({ Name: nickname, ReadyState: false });
@@ -46,18 +45,15 @@ export default {
         this.errorMessage = null;
         this.$router.push({ path: `home${this.nickname}` }); // -> /user/123
       } else {
-        console.log("username already taken");
-        this.errorMessage = "This username is already in use.";
+        this.errorMessage = this.$t('LOGIN_ERROR_USING');
       }
     },
     LobbyFull: function(){
-      console.log("Lobby is full");
-        this.errorMessage = "The lobby is full or game has already started.";
+        this.errorMessage = this.$t('LOGIN_ERROR_FULL');
     }
 
   },
   created() {
-    console.log("reset");
     this.$store.dispatch("loginToken");
     this.$lobbyHub.$on("username-checked", this.UsernameChecked);
     this.$lobbyHub.$on("lobby-full", this.LobbyFull);

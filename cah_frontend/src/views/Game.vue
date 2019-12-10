@@ -8,24 +8,23 @@
         <div class="game_content">
             <div class="game_content__information">
                 <div class="information_top">
-                    <h3>points: {{currentPoints}}</h3>
-                    <h3>you are {{currentPosition}}</h3>
+                    <h3>{{$t("GAME_POINTS")}}{{currentPoints}}</h3>
                 </div>
-                <h2 class="information_player">{{currentUser}} is the card czar</h2>
-                <h3>time left: {{currentTimer}}</h3>
+                <h2 class="information_player">{{currentUser}} {{$t("GAME_CZAR")}}</h2>
+                <h3>{{$t("GAME_TIME")}} {{currentTimer}}</h3>
             </div>
             <div class="game_content__placement">
                 <div class="placement_black">
                     <h3 class="cards_title_white">{{blackCardValue}}</h3>
                 </div>
                 <div v-show="!chosenCard" class="placement_dotted">
-                    <h3 class="cards_title_white">choose your card</h3>
+                    <h3 class="cards_title_white">{{$t("GAME_CHOOSING")}}</h3>
                 </div>                
                 <div v-show="chosenCard" class="placement_white">
                     <h3 class="cards_title_black">{{chosenCardText}}</h3>
                 </div>
             </div>
-            <input v-show="chosenCard" v-on:click="sendChosenCard(chosenCardText)" class="game_content__submit" type="submit" value="confirm"> 
+            <input v-show="chosenCard" v-on:click="sendChosenCard(chosenCardText)" class="game_content__submit" type="submit" :value="`${this.$t('GAME_CONFIRM')}`"> 
             <div class="game_content__cards">
                 <div class="cards_container">
                     <cards @clicked="onClickChild" v-for="c in cards" :key="c.id" :cardText="c.cardText" :cardIndex="c.cardIndex" />
@@ -42,7 +41,6 @@ export default {
     data(){
         return{
             currentPoints: 5,
-            currentPosition: "2nd",
             currentUser: "Jasper",
             currentTimer: "50s",
             blackCardValue: "What is the one thing obama is good at? ___",

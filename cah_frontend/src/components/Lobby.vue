@@ -4,11 +4,11 @@
         <lobbymembers  v-for="p in players" :key="p.id" :username="p.name" :isReady="p.readyState"/>
     </div>
     <div v-show="!gameStarting">
-        <input v-show="!isReady" v-on:click="getReady()" class="button" type="submit" value="Ready" >
-        <h2 v-show="isReady">waiting for everyone to get ready...</h2>
-        <input v-show="isReady" v-on:click="getReady()" class="red_button" type="submit" value="UnReady" >
+        <input v-show="!isReady" v-on:click="getReady()" class="button" type="submit" :value="`${this.$t('INPUT_BUTTON_READY')}`" >
+        <h2 v-show="isReady">{{$t("LOBBY_READY_TEXT")}}</h2>
+        <input v-show="isReady" v-on:click="getReady()" class="red_button" type="submit" :value="`${this.$t('INPUT_BUTTON_UNREADY')}`" >
     </div>
-    <h2 v-show="gameStarting">everyone is ready starting game in {{visualCounter}} secs...</h2>
+    <h2 v-show="gameStarting">{{$t("GAME_STARTING")}} {{visualCounter}} secs...</h2>
 
 
 </div>
@@ -50,7 +50,6 @@ export default {
             localStorage.setItem('readyState', this.isReady);
         },
         StartCountdownToGame: function(){
-            console.log("STARTING COUNTDOWN TO GAME");
             this.gameStarting = true;
             var timerId = setInterval(countdown, 1000);
         },

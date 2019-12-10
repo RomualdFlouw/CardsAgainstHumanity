@@ -5,7 +5,7 @@
           <svg class="" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 17l5-5-5-5M19.8 12H9M10 3H4v18h6"/></svg>
         </router-link>
       </div>
-        <h1 class="logo">Cards Against Humanity</h1>
+        <h1 class="logo">{{$t("GAME_TITLE")}}</h1>
         <div class="home_content">
           <lobby :nickname="this.$route.params.nickname"/>
         </div>

@@ -5,6 +5,7 @@ import router from './router'
 import store from './store'
 import axios from 'axios'
 import lobbyHub from './lobby-hub'
+import {i18n} from './plugins/i18n'
 
 Vue.config.productionTip = false
 
@@ -18,6 +19,7 @@ axios.interceptors.request.use(request => {
 Vue.use(lobbyHub)
 
 new Vue({
+  i18n,
   router,
   store,
   axios,
