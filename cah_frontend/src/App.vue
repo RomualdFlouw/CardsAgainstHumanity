@@ -11,7 +11,7 @@ import Row from './components/Layout/Row';
 export default {
   created(){
     this.$store.dispatch("restoreContext");
-    localStorage.setItem("locale", "nl")
+    localStorage.setItem("locale", "en")
   },
   components: {
     Container,

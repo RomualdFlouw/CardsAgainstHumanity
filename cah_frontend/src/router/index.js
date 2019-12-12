@@ -33,6 +33,14 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "leaderboard" */ '../views/Leaderboard.vue')
   },
+  {
+    path: '*',
+    name: 'error',
+    // route level code-splitting
+    // this generates a separate chunk (leaderboard.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "leaderboard" */ '../views/Error.vue')
+  },
 ]
 
 const router = new VueRouter({
