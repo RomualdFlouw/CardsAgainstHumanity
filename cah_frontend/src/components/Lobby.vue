@@ -17,6 +17,7 @@
 
 <script>
 import lobbymembers from '../components/lobbymembers'
+import Vue from 'vue'
 export default {
     name:'lobby',
     data(){
@@ -51,12 +52,14 @@ export default {
             localStorage.setItem('readyState', this.isReady);
         },
         StartCountdownToGame: function(){
+            Vue.prototype.startGameSignalR(localStorage.jwtToken)
             this.gameStarting = true;
             this.gameCountdown = 15;
             this.visualCounter = 15;
             this.timerId = setInterval(this.countdown, 1000);
         },
         StopCountdownToGame: function(){
+            Vue.prototype.stopGameSignalR();
             this.gameStarting = false;
             clearInterval(this.timerId);
         },
@@ -64,6 +67,7 @@ export default {
             if (this.gameCountdown == 0) {
                 clearInterval(this.timerId);
                 this.$emit('StartingGame');
+                
             } else {
                 this.gameCountdown--;
                 this.visualCounter = this.gameCountdown;
