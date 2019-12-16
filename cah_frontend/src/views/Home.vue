@@ -30,7 +30,9 @@ export default {
           this.$router.back('login');
         },
         StartGame: function(){
-          this.$router.push({ path: `game` });
+          console.log("Starting game");
+          //this.$router.push({ path: `game` });
+          this.$router.push({ path: '/game' });
         }
     }
 }
