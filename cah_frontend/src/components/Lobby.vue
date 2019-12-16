@@ -3,7 +3,7 @@
     <div>
         <lobbymembers  v-for="p in players" :key="p.id" :username="p.name" :isReady="p.readyState"/>
     </div>
-    <div v-show="!gameStarting">
+    <div v-show="!gameStarting" v-bind:style="{ textAlign: 'center' }">
         <input v-show="!isReady" v-on:click="getReady()" class="button" type="submit" :value="`${this.$t('INPUT_BUTTON_READY')}`" >
         <h2 v-show="isReady">{{$t("LOBBY_READY_TEXT")}}</h2>
         <input v-show="isReady" v-on:click="getReady()" class="red_button" type="submit" :value="`${this.$t('INPUT_BUTTON_UNREADY')}`" >
@@ -25,7 +25,8 @@ export default {
             isReady: false,
             gameStarting: false,
             gameCountdown: 15,
-            visualCounter: null
+            visualCounter: 15,
+            timerId: null,
         }
     },
     props:{
@@ -51,15 +52,21 @@ export default {
         },
         StartCountdownToGame: function(){
             this.gameStarting = true;
-            var timerId = setInterval(countdown, 1000);
+            this.gameCountdown = 15;
+            this.visualCounter = 15;
+            this.timerId = setInterval(this.countdown, 1000);
+        },
+        StopCountdownToGame: function(){
+            this.gameStarting = false;
+            clearInterval(this.timerId);
         },
         countdown: function(){
             if (this.gameCountdown == 0) {
-                clearTimeout(this.timerId);
+                clearInterval(this.timerId);
                 this.$router.push({ path: `game` });
             } else {
-                this.visualCounter = this.gameCountdown;
                 this.gameCountdown--;
+                this.visualCounter = this.gameCountdown;
             }
         }
 
