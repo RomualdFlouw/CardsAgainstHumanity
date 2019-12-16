@@ -36,12 +36,12 @@
 <script>
 import cards from '../components/Cards';
 
-export default {
+export default { 
     name: 'game',
     data(){
         return{
             currentPoints: 5,
-            currentUser: "Jasper",
+            currentChooser: "Jasper",
             currentTimer: "50s",
             blackCardValue: "What is the one thing obama is good at? ___",
             cards:[
@@ -66,8 +66,8 @@ export default {
     methods:{
         logoutFunction: function(){
             this.$store.dispatch('logout');
-            this.$router.back('login');
             window.localStorage.removeItem('readyState');
+            this.$router.back('login');
         },
         onClickChild: function (value) {
             this.chosenCard = true // someValue

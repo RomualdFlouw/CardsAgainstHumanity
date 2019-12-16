@@ -26,7 +26,7 @@ export default {
     },
     methods:{
         logoutFunction: function(){
-          this.$store.dispatch('logout');
+          // this.$store.dispatch('logout');
           this.$router.back('login');
         }
     }
