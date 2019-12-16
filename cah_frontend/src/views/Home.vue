@@ -7,7 +7,7 @@
       </div>
         <h1 class="logo">{{$t("GAME_TITLE")}}</h1>
         <div class="home_content">
-          <lobby :nickname="this.$route.params.nickname"/>
+          <lobby v-on:StartingGame="StartGame" :nickname="this.$route.params.nickname"/>
         </div>
     </div>
 </template>
@@ -28,6 +28,9 @@ export default {
         logoutFunction: function(){
           // this.$store.dispatch('logout');
           this.$router.back('login');
+        },
+        StartGame: function(){
+          this.$router.push({ path: `game` });
         }
     }
 }

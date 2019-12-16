@@ -63,7 +63,7 @@ export default {
         countdown: function(){
             if (this.gameCountdown == 0) {
                 clearInterval(this.timerId);
-                this.$router.push({ path: `game` });
+                this.$emit('StartingGame');
             } else {
                 this.gameCountdown--;
                 this.visualCounter = this.gameCountdown;
