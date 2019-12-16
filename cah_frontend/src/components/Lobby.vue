@@ -3,7 +3,7 @@
     <div>
         <lobbymembers  v-for="p in players" :key="p.id" :username="p.name" :isReady="p.readyState"/>
     </div>
-    <div v-show="!gameStarting">
+    <div class="lobby_Form" v-show="!gameStarting">
         <input v-show="!isReady" v-on:click="getReady()" class="button" type="submit" :value="`${this.$t('INPUT_BUTTON_READY')}`" >
         <h2 v-show="isReady">{{$t("LOBBY_READY_TEXT")}}</h2>
         <input v-show="isReady" v-on:click="getReady()" class="red_button" type="submit" :value="`${this.$t('INPUT_BUTTON_UNREADY')}`" >
