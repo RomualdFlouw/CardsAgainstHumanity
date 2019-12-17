@@ -12,10 +12,10 @@ import {i18n} from './plugins/i18n'
 
 Vue.config.productionTip = false
 
-Sentry.init({
-  dsn: 'https://77832e51ffab4f0bb3798483db18d237@sentry.io/1859904',
-  integrations: [new Integrations.Vue({Vue, attachProps: true})],
-});
+// Sentry.init({
+//   dsn: 'https://77832e51ffab4f0bb3798483db18d237@sentry.io/1859904',
+//   integrations: [new Integrations.Vue({Vue, attachProps: true})],
+// });
 
 axios.interceptors.request.use(request => {
   if (store.state.jwtToken) request.headers['Authorization'] = 
@@ -29,7 +29,6 @@ Vue.use(gameHub)
 
 new Vue({
   i18n,
-  Sentry,
   router,
   store,
   axios,

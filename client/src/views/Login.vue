@@ -55,13 +55,9 @@ export default {
 
   },
   created() {
-    try {
       this.$store.dispatch("loginToken");
       this.$lobbyHub.$on("username-checked", this.UsernameChecked);
       this.$lobbyHub.$on("lobby-full", this.LobbyFull);
-    } catch (err) {
-      this.$Sentry.captureException(err);
-    }
     }
 };
 </script>
