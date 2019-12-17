@@ -1,0 +1,115 @@
+html,
+body{
+    font: 20px/1.5 'Arimo', sans-serif;
+    color: $global-textColor;
+    background-color: $global-backgroundColor;
+    font-weight: bold;
+}
+
+h1,
+h2,
+h3,
+p{
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3{
+    text-align: center;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+.logo{
+    
+    margin: 100px auto 0;
+    width: 80%;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    
+    margin: auto auto 0;
+    width: 40%;    
+    min-width: 360px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.button{
+    width: 80%;
+    height: 20%;
+    max-width: 320px;
+    align-self: center;
+
+    text-align: center;
+    background-color: $global-buttonColor;
+    border: none;
+    border-radius: 2px;
+
+    color:$global-textColor;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+
+    padding: 3% 2%;
+    
+    margin-top: 2%;
+}
+
+.button:hover{
+    background-color: $global-buttonHoverColor;
+}
+
+.red_button{
+    width: 80%;
+    height: 20%;
+    max-width: 320px;
+
+    align-self: center;
+
+    text-align: center;
+    background-color: $global-redButtonColor;
+    border: none;
+    border-radius: 2px;
+
+    color:$global-textColor;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+
+    padding: 3% 2%;
+    
+    margin-top: 2%;
+}
+
+.red_button:hover{
+    background-color: $global-redButtonHoverColor;
+}
+.horizontal_centering{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+.vertical_centering{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: auto;
+}

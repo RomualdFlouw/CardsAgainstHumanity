@@ -1,0 +1,13 @@
+.leaderboard_member{
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+    width: 80%;
+    margin: auto;
+    max-width: 320px;
+}
+
+.Leaderboard_buttons{
+    display: flex;
+    flex-direction: column;
+    
+}
