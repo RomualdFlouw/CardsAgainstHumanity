@@ -1,7 +1,7 @@
 // Inside vue.config.js
 module.exports = {
     devServer: {
-        port: 8888
+        port: 8080
       },
     // ...other vue-cli plugin options...
     pwa: {
