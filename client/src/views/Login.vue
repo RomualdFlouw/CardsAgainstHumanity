@@ -44,7 +44,7 @@ export default {
     UsernameChecked: function(isAvailable){
       if (isAvailable) {
         this.errorMessage = null;
-        this.$router.push({ path: "Leaderboard" }); // -> /user/123
+        this.$router.push({ path: "home" }); // -> /user/123
       } else {
         this.errorMessage = this.$t('LOGIN_ERROR_USING');
       }
