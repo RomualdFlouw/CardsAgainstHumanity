@@ -1,5 +1,5 @@
 <template>
-    <div class="home">
+    <div class="full_size">
         <h1 class="logo">{{$t("GAME_TITLE")}}</h1>
         <div class="content">
             <h2 class="leaderboard_header">The funniest members are...</h2>
