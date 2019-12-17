@@ -7,8 +7,8 @@ import axios from 'axios'
 import lobbyHub from './lobby-hub'
 import gameHub from './game-hub'
 import {i18n} from './plugins/i18n'
-import * as Sentry from '@sentry/browser';
-import * as Integrations from '@sentry/integrations';
+// import * as Sentry from '@sentry/browser';
+// import * as Integrations from '@sentry/integrations';
 
 Vue.config.productionTip = false
 

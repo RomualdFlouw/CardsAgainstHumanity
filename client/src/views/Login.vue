@@ -55,9 +55,13 @@ export default {
 
   },
   created() {
+    try {
       this.$store.dispatch("loginToken");
       this.$lobbyHub.$on("username-checked", this.UsernameChecked);
       this.$lobbyHub.$on("lobby-full", this.LobbyFull);
+    } catch (err) {
+      Sentry.captureException(err);
+    }
     }
 };
 </script>
