@@ -37,8 +37,8 @@ export default {
         this.errorMessage = this.$t('LOGIN_ERROR_EMPTY');
       } else {
         this.errorMessage = null;
-        this.$router.push({ path: "Leaderboard" }); // -> /user/123
-        // this.$lobbyHub.LoginUser({ Name: nickname, ReadyState: false });
+        // this.$router.push({ path: "Leaderboard" }); // -> /user/123
+        this.$lobbyHub.LoginUser({ Name: nickname, ReadyState: false });
       }
     },
     UsernameChecked: function(isAvailable){
@@ -55,9 +55,13 @@ export default {
 
   },
   created() {
-    this.$store.dispatch("loginToken");
-    this.$lobbyHub.$on("username-checked", this.UsernameChecked);
-    this.$lobbyHub.$on("lobby-full", this.LobbyFull);
-  }
+    try {
+      this.$store.dispatch("loginToken");
+      this.$lobbyHub.$on("username-checked", this.UsernameChecked);
+      this.$lobbyHub.$on("lobby-full", this.LobbyFull);
+    } catch (err) {
+      Sentry.captureException(err);
+    }
+    }
 };
 </script>
