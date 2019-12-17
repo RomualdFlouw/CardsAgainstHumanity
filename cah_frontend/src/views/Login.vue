@@ -37,13 +37,14 @@ export default {
         this.errorMessage = this.$t('LOGIN_ERROR_EMPTY');
       } else {
         this.errorMessage = null;
-        this.$lobbyHub.LoginUser({ Name: nickname, ReadyState: false });
+        this.$router.push({ path: "Leaderboard" }); // -> /user/123
+        // this.$lobbyHub.LoginUser({ Name: nickname, ReadyState: false });
       }
     },
     UsernameChecked: function(isAvailable){
       if (isAvailable) {
         this.errorMessage = null;
-        this.$router.push({ path: `home/${this.nickname}` }); // -> /user/123
+        this.$router.push({ path: "Leaderboard" }); // -> /user/123
       } else {
         this.errorMessage = this.$t('LOGIN_ERROR_USING');
       }
