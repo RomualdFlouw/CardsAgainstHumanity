@@ -82,7 +82,7 @@ function listMajors(auth) {
 
     let language = {};
     rows.map((row) => {
-        language[row[0]] = row[2];
+        language[row[0]] = row[1];
       });
 
     console.log(language);

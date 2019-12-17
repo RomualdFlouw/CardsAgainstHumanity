@@ -34,12 +34,20 @@ const routes = [
     component: () => import(/* webpackChunkName: "leaderboard" */ '../views/Leaderboard.vue')
   },
   {
+    path: '/settings',
+    name: 'settings',
+    // route level code-splitting
+    // this generates a separate chunk (Settings.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "Settings" */ '../views/Settings.vue')
+  },
+  {
     path: '*',
     name: 'error',
     // route level code-splitting
-    // this generates a separate chunk (leaderboard.[hash].js) for this route
+    // this generates a separate chunk (error.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "leaderboard" */ '../views/Error.vue')
+    component: () => import(/* webpackChunkName: "error" */ '../views/Error.vue')
   },
 ]
 
