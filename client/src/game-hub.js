@@ -28,6 +28,10 @@ export default {
         gameHub.$emit('receive-round-info', info)
       })
 
+      connection.on('PickWinner', (cards) => {
+        gameHub.$emit('pick-winner', cards)
+      })
+
       // You need to call connection.start() to establish the connection but the client wont handle reconnecting for you!
       // Docs recommend listening onclose and handling it there.
       // This is the simplest of the strategies

@@ -10,7 +10,7 @@
                 <div class="information_top">
                     <h3>{{$t("GAME_POINTS")}}{{currentPoints}}</h3>
                 </div>
-                <h2 class="information_player">{{currentChooser}} {{$t("GAME_CZAR")}}</h2>
+                <h2 class="information_player">You are the card Czar</h2>
                 <h3 v-show="IsRoundStarting">{{$t("GAME_TIME")}} {{roundVisualCounter}}</h3>
                 <h3 v-show="IsChooserStarting">{{$t("GAME_TIME")}} {{chooserVisualCounter}}</h3>
             </div>
@@ -28,7 +28,7 @@
             <input v-show="chosenCard" v-on:click="sendChosenCardCzar(chosenCard)" class="game_content__submit" type="submit" :value="`${this.$t('GAME_CONFIRM')}`"> 
             <div class="game_content__cards">
                 <div class="cards_container">
-                    <cards @clicked="onClickChild" v-for="c in Playercards" :key="c.id"  :card="c" />
+                    <cards @clicked="onClickChild" v-for="c in ToChooseCards" :key="c.id"  :card="c" />
                 </div>
             </div>
         </div>
@@ -55,7 +55,7 @@
             <input v-show="chosenCard" v-on:click="sendChosenCard(chosenCard)" class="game_content__submit" type="submit" :value="`${this.$t('GAME_CONFIRM')}`"> 
             <div class="game_content__cards">
                 <div class="cards_container">
-                    <cards @clicked="onClickChild" v-for="c in ToChooseCards" :key="c.id"  :card="c" />
+                    <cards @clicked="onClickChild" v-for="c in Playercards" :key="c.id"  :card="c" />
                 </div>
             </div>
         </div>
@@ -136,12 +136,14 @@ export default {
         },
         ReceiveStartingHand: function (hand){
             this.Playercards = hand;
-            console.log(hand);
+            console.log(this.Playercards);
         },
         ReceiveRoundInfo: function (info){
             console.log(info);
             this.blackCardValue = info.blackCard.cardText;
             this.currentChooser = info.czar;
+            console.log(info.player.isCzar);
+            this.cardCzar = info.player.isCzar;
         },
         GameRound: function() {
             // TODO
@@ -153,11 +155,16 @@ export default {
             // 3. Start a 30 second countdown
 
             // 4. If timer is done, send random card 
+        },
+        PickWinner: function(cards){
+            console.log("Has to pick winner");
+            console.log(cards);
         }
     },
     created(){
         this.$gameHub.$on("receive-starting-hand", this.ReceiveStartingHand);
         this.$gameHub.$on("receive-round-info", this.ReceiveRoundInfo);
+        this.$gameHub.$on("pick-winner", this.PickWinner);
         // Get Starting hand
         this.$gameHub.GetStartingHand();
         this.$gameHub.GetRoundInfo();
