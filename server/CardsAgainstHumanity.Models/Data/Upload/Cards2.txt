@@ -1,0 +1,148 @@
+CardText;CategoryID;PickAmount;DeckID
+Een emmer met viskoppen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Stilte.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een worstenfeest.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een eerlijke agent met niets te verliezen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Hongersnood.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Vleesetende bacteriën.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Vliegende seksslangen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Geen fuck geven om de Derde Wereld.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+SexMS-en.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Gedaanteverwisselaars.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Pornosterren.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Verkrachten en plunderen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+72 maagden.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een live publiek.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een tijdsreisparadox.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een authentieke Mexicaanse keuken.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Bling.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Management oplossingen met synergie.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Verlammende schuld.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Daddy issues.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Gebruikte panties.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een kandelaar laten vallen op je vijanden en met het touw omhoog getrokken worden.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Voormalig President George W. Bush.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Complete naaktheid.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Hormooninjecties.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een ei leggen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Je kleren uitdoen en Nickelodeon kijken.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Doen alsof je er iets om geeft.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Publiekelijke spot.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Naalden delen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Snot.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De onvermijdelijke warmtedood van het universum.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Het wonder van de geboorte.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Opname van de gemeente.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Het tevoorschijn toveren.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Blank voorrecht-.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Vrouwentaken.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De Hamburglar.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+AXE Body Spray.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Het bloed van Christus.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Verschrijkkelijke laserontharing-ongelukken.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+BATMAN!!!.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Agricultuur.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een stevige mongool.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Natuurlijke selectie.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Abortus met een kledinghander.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Alle koekjes opeten voordat het AIDS-fonds ze kan verkopen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Michelle Obama's armen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+The World of Warcraft.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Swoopen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Obesitas.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een homoerotische volleybalmontage.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Kaakklem.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een paringsdans.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Verdraaide ballen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+All-you-can-eat garnalen voor €4.99.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Domino's Orea Desert Pizza.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Kanye West.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Hete kaas.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Raptor-aanvallen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Je shirt uitdoen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Smegma.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Alcoholisme.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een man van middelbare leeftijd op rolschaatsen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De Troetelberen-staar.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Volproppen en leegkotsen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Te grote lolly's.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Zelfhaat.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Kinderen aan riemen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Halfgaar voorspel.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De Bijbel.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Duitse kerkerporno.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+In brand staan.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Tienerzwangerschap.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Ghandi.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een ongemakkelijke voicemail achterlaten.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een uppercut.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een pyramide van afgehakte hoofden.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een erectie die langer dan vier uur duurt.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Mijn genitaliën.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Meisjes regelen bij de abortuskliniek.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wetenschap.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Geen orale seks teruggeven.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Loopvogels.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een goede snuif.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+50000 volt rechtstreeks naar de tepels.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een gebalanceerd ontbijt.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Historisch gezien zwarte scholen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Daadwerkelijk snoep van een kind stelen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De doe Een Wens stichting.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een stam van vrouwelijke krijgers.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Passief-agressieve Post-it briefjes.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Het Chinese gymnastiekteam.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Even Apeldoorn bellen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een beetje plassen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een home video van Oprah die huilt op een magnetronmaaltijd.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Natte dromen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De joden.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+My humps.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Krachtige dijen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Knipogen naar oude mensen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Mr. Clean, vlak achter je.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een aanraking van de binnenste dij.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Sexuele spanning.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een M16 assault rifle.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Skeletor.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Whiskas.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Rijk zijn.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Zoete, zoete wraak.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Republikeinen.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een winderige antilope.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Natalie Portman.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Handtastelijk zijn.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Kamikaze piloten.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Sean Connery.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De homoseksuele levensstijl.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De harwerkende Mexicaan.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Een valk met een pet op zijn hoofd.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Misdienaar.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Fernandes.;1;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat is het meeste emo?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Papa, waarom huilt mama?.;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Tijdens zijn jeugd produceerde Salvador Dali honderden schilderijen van __________.;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Hoe ben ik ontmaagd?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Waardoor eindigde mijn laatste relatie?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+__________: Goed tot de laatste druppel;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+I got 99 problems but __________ ain't one;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Tijdens seks denk ik graag aan __________.;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat is dat geluid?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+__________. Zo wil ik sterven;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+waarom kleef ik?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat is het volgende happy meal speeltje?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Waarom kan ik 's nachts niet slapen?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat is die lucht?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat helpt Obama te ontspannen?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Dit seizoen op Broadway, __________: de musical;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+War! What is it good for?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat geef ik op tijdens vasten?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Waar ruiken oude mensen naar?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat geeft mij oncontroleerbare winderigheid?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Wat wil je niet vinden in je chinees?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+__________. High five bro.;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Waar houd Dick Cheney het meeste van?;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Maar voor ik u doodmaak, Mr.Bond, moet ik u __________ laten zien.;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De wereld zal eindigen door ___________.;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+De alternatieve geneeskunde;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad
+Als ik miljardair ben zal ik een standbeeld plaatsen van __________.;2;0;fe90fd43-c841-4dcd-a524-78ec08f5a1ad

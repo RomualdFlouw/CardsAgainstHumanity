@@ -1,0 +1,304 @@
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\appsettings.json
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.exe
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.deps.json
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.runtimeconfig.json
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.runtimeconfig.dev.json
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.pdb
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.csprojAssemblyReference.cache
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\staticwebassets\CardsAgainstHumanity.API.StaticWebAssets.Manifest.cache
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\staticwebassets\CardsAgainstHumanity.API.StaticWebAssets.xml
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.AssemblyInfoInputs.cache
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.AssemblyInfo.cs
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.RazorTargetAssemblyInfo.cache
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.pdb
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.Models.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.Models.pdb
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.csproj.CopyComplete
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.Views.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Net.WebSockets.WebSocketProtocol.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.MvcApplicationPartsAssemblyInfo.cs
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.MvcApplicationPartsAssemblyInfo.cache
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\DnsClient.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Libmongocrypt.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\SharpCompress.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanityNoSQL.Models.dll
+F:\MCT\S5\Advanced Full Stack Development\CardsAgainstHumanity\CardsAgainstHumanity\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanityNoSQL.Models.pdb
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\appsettings.json
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.exe
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.deps.json
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.runtimeconfig.json
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.runtimeconfig.dev.json
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.pdb
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.API.Views.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\MongoDB.Libmongocrypt.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.Models.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanityNoSQL.Models.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanity.Models.pdb
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\bin\Debug\netcoreapp3.0\CardsAgainstHumanityNoSQL.Models.pdb
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.csprojAssemblyReference.cache
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\staticwebassets\CardsAgainstHumanity.API.StaticWebAssets.Manifest.cache
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\staticwebassets\CardsAgainstHumanity.API.StaticWebAssets.xml
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.MvcApplicationPartsAssemblyInfo.cs
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.AssemblyInfoInputs.cache
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.AssemblyInfo.cs
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.RazorTargetAssemblyInfo.cache
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.csproj.CopyComplete
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.dll
+C:\FrameworksAndPatterns\CardsAgainstHumanity\server\CardsAgainstHumanity.API\obj\Debug\netcoreapp3.0\CardsAgainstHumanity.API.pdb

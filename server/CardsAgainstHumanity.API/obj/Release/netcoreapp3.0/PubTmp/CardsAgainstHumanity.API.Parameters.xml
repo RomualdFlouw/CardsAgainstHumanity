@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CardsAgainstMCT" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\MCT\\S5\\Advanced\ Full\ Stack\ Development\\CardsAgainstHumanity\\CardsAgainstHumanity\\CardsAgainstHumanity\.API\\obj\\Release\\netcoreapp3\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
