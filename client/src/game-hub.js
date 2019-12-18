@@ -24,6 +24,10 @@ export default {
         gameHub.$emit('receive-starting-hand', hand)
       })
 
+      connection.on('ReceiveRoundInfo', (info) => {
+        gameHub.$emit('receive-round-info', info)
+      })
+
       // You need to call connection.start() to establish the connection but the client wont handle reconnecting for you!
       // Docs recommend listening onclose and handling it there.
       // This is the simplest of the strategies
@@ -76,6 +80,15 @@ export default {
 
       return startedPromise
         .then(() => connection.invoke("GetStartingHand"))
+        .catch(console.error);
+    };
+
+    gameHub.GetRoundInfo = () => {
+      if (!startedPromise) 
+          return;
+
+      return startedPromise
+        .then(() => connection.invoke("GetRoundInfo"))
         .catch(console.error);
     };
     // Provide methods for components to send messages back to server

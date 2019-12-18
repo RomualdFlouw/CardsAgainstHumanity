@@ -69,8 +69,8 @@ export default {
                 clearInterval(this.timerId);
                 this.$emit('StartingGame');
             } else if (this.gameCountdown == 10){
-                console.log("Joining player to the game");
-                this.$gameHub.JoinGame(localStorage.currentUser);
+                console.log("Joining " + localStorage.CurrentUser + " to the game");
+                this.$gameHub.JoinGame(localStorage.CurrentUser);
                 this.gameCountdown--;
                 this.visualCounter = this.gameCountdown;
             }  else {

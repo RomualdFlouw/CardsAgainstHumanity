@@ -82,8 +82,12 @@ export default {
             this.cards = hand;
             console.log(hand);
         },
+        ReceiveRoundInfo: function (info){
+            console.log(info);
+        },
         GameRound: function() {
             // TODO
+            this.$gameHub.GetRoundInfo();
             // 1. Tell the backend to initiate a round
             //      Picks a Czar 
             //      Picks a black card for the round
@@ -93,8 +97,10 @@ export default {
     },
     created(){
         this.$gameHub.$on("receive-starting-hand", this.ReceiveStartingHand);
+        this.$gameHub.$on("receive-round-info", this.ReceiveRoundInfo);
         // Get Starting hand
         this.$gameHub.GetStartingHand();
+        this.$gameHub.GetRoundInfo();
         
     }
 }
