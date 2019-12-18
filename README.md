@@ -11,3 +11,12 @@ Realtime gedeelte:
 
 API:
 We kunnen onze API opvullen met zelf gemaakte kaarten of we kunnen een externe api gebruiken om onze kaarten aan te vullen (https://crhallberg.com/cah/). Aan de hand van deze API kunnen we voorgemaakte decks selecteren en deze toevoegen aan onze database. Zo hoeven we minder eigen data te maken en sneller beginnen aan onze web applicatie.
+
+Dosier:
+  - Praktische elementen: wij hebben geen users, je moet gewoon zorgen dat de signalr server aanstaat dan zou u moeten kunnen spelen.
+  - aanvulling backend: goed idee, wij hebben geen users nodig, geen api calls, enkel signalr
+  - rapportering: 
+      grootste succes: gamecontroller, signalr laten werken
+      grootste moeilijkheid: het spel zelf uitdenken hoe we het eigenlijk moeten doen met signalr en frontend
+      
+      
