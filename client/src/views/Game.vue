@@ -40,24 +40,37 @@ export default {
     name: 'game',
     data(){
         return{
-            currentPoints: 5,
-            currentChooser: "Jasper",
-            currentTimer: "50s",
+            currentPoints: 0,
+            currentChooser: "",
+
             blackCardValue: "What is the one thing obama is good at? ___",
-            cards:[
+            Playercards:[
                 {cardText: "this is the text dzada sd asdazdasd azd ", cardIndex:0},
                 {cardText: "this is the text", cardIndex:1},
                 {cardText: "this is the text", cardIndex:2},
                 {cardText: "this is the text", cardIndex:3},
                 {cardText: "this is the text", cardIndex:4},
-                {cardText: "this is the textttt", cardIndex:500},
+                {cardText: "this is the text", cardIndex:5},
                 {cardText: "this is the text", cardIndex:6},
                 {cardText: "this is the text", cardIndex:7},
                 {cardText: "this is the text", cardIndex:8},
                 {cardText: "this is the text", cardIndex:9}
             ],
+            ToChooseCards:[],
+
             chosenCard: false,
-            chosenCardText: ""
+            chosenCardText: "",
+
+            roundCountdown: 50,
+            roundVisualCounter: 50,
+            roundTimerId: null,
+
+            chooserCountdown: 30,
+            chooserVisualCounter: 30,
+            chooserTimerId: null,
+
+            IsRoundStarting: true,
+            IsChooserStarting: false,
         }
     },
     components:{
@@ -71,12 +84,30 @@ export default {
         },
         onClickChild: function (value) {
             this.chosenCard = true // someValue
-            this.chosenCard = true // someValue
-            this.chosenCardText = this.cards[value].cardText // someValue
+            console.log(card);
+
+            this.chosenCard = card;
+            //doorsturen naar backend
         },
-        sendChosenCard: function (value){
-            console.log("nu zou de card moeten doorgestuurd worden" + value);
-              this.$router.push({ path: `/leaderboard` }) // -> /user/123
+        // sendChosenCard: function (value){
+        //     console.log("nu zou de card moeten doorgestuurd worden" + value);
+        //       this.$router.push({ path: `/leaderboard` }) // -> /user/123
+        // },
+        startCountdownRound: function(){
+            this.roundTimerId = setInterval(this.roundCountdown, this.roundTimerId, this.roundVisualCounter, "start-chooser-round");
+        },
+        startCountdownChooser: function(){
+            this.roundTimerId = setInterval(this.chooserCountdown, this.chooserTimerId, this.chooserVisualCounter, "send-chosen-card");
+        },
+        countdown: function(typeCountdown, timerId, visualCounter, message){
+            if (typeCountdown == 0) {
+                clearInterval(timerId);
+                this.$emit(message);
+                
+            } else {
+                typeCountdown--;
+                visualCounter = typeCountdown;
+            }
         },
         ReceiveStartingHand: function (hand){
             this.cards = hand;
