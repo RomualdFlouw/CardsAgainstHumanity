@@ -101,7 +101,7 @@ export default {
           return;
 
       return startedPromise
-        .then(() => connection.invoke("ClientReadyStateChange", user))
+        .then(() => connection.invoke("ClientReadyStateChange"))
         .catch(console.error);
     };
     // Provide methods for components to send messages back to server

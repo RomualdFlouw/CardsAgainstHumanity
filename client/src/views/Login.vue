@@ -49,6 +49,7 @@ export default {
     UsernameChecked: function(isAvailable){
       if (isAvailable) {
         this.errorMessage = null;
+        localStorage.CurrentUser = this.nickname;
         this.$router.push({ path: "home" }); // -> /user/123
       } else {
         this.errorMessage = this.$t('LOGIN_ERROR_USING');

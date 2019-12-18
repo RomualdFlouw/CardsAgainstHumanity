@@ -10,7 +10,7 @@
                 <div class="information_top">
                     <h3>{{$t("GAME_POINTS")}}{{currentPoints}}</h3>
                 </div>
-                <h2 class="information_player">{{currentUser}} {{$t("GAME_CZAR")}}</h2>
+                <h2 class="information_player">{{currentChooser}} {{$t("GAME_CZAR")}}</h2>
                 <h3>{{$t("GAME_TIME")}} {{currentTimer}}</h3>
             </div>
             <div class="game_content__placement">
@@ -35,7 +35,7 @@
 </template>
 <script>
 import cards from '../components/Cards';
-
+import Vue from 'vue'
 export default { 
     name: 'game',
     data(){
@@ -50,7 +50,7 @@ export default {
                 {cardText: "this is the text", cardIndex:2},
                 {cardText: "this is the text", cardIndex:3},
                 {cardText: "this is the text", cardIndex:4},
-                {cardText: "this is the text", cardIndex:5},
+                {cardText: "this is the textttt", cardIndex:500},
                 {cardText: "this is the text", cardIndex:6},
                 {cardText: "this is the text", cardIndex:7},
                 {cardText: "this is the text", cardIndex:8},
@@ -77,7 +77,25 @@ export default {
         sendChosenCard: function (value){
             console.log("nu zou de card moeten doorgestuurd worden" + value);
               this.$router.push({ path: `/leaderboard` }) // -> /user/123
+        },
+        ReceiveStartingHand: function (hand){
+            this.cards = hand;
+            console.log(hand);
+        },
+        GameRound: function() {
+            // TODO
+            // 1. Tell the backend to initiate a round
+            //      Picks a Czar 
+            //      Picks a black card for the round
+            // 1. Get Roles from Backend (Czar/Pleb)
+            // 2. Ask the black
         }
+    },
+    created(){
+        this.$gameHub.$on("receive-starting-hand", this.ReceiveStartingHand);
+        // Get Starting hand
+        this.$gameHub.GetStartingHand();
+        
     }
 }
 </script>

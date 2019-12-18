@@ -41,7 +41,7 @@ export default {
             if (this.gameStarting){
                 return;
             };
-            this.$lobbyHub.ClientReadyStateChange({Name: this.nickname, ReadyState: !this.isReady});
+            this.$lobbyHub.ClientReadyStateChange();
         },
         UpdateLobby: function(users){
             console.log(users);
@@ -52,6 +52,7 @@ export default {
             localStorage.setItem('readyState', this.isReady);
         },
         StartCountdownToGame: function(){
+            console.log("Connecting to game hub");
             Vue.prototype.startGameSignalR(localStorage.jwtToken)
             this.gameStarting = true;
             this.gameCountdown = 15;
@@ -67,8 +68,12 @@ export default {
             if (this.gameCountdown == 0) {
                 clearInterval(this.timerId);
                 this.$emit('StartingGame');
-                
-            } else {
+            } else if (this.gameCountdown == 10){
+                console.log("Joining player to the game");
+                this.$gameHub.JoinGame(localStorage.currentUser);
+                this.gameCountdown--;
+                this.visualCounter = this.gameCountdown;
+            }  else {
                 this.gameCountdown--;
                 this.visualCounter = this.gameCountdown;
             }

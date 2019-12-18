@@ -20,6 +20,9 @@ export default {
         .build();
 
       // Forward hub events through the event, so we can listen for them in the Vue components
+      connection.on('ReceiveStartingHand', (hand) => {
+        gameHub.$emit('receive-starting-hand', hand)
+      })
 
       // You need to call connection.start() to establish the connection but the client wont handle reconnecting for you!
       // Docs recommend listening onclose and handling it there.
@@ -58,6 +61,23 @@ export default {
         });
     };
 
+    gameHub.JoinGame = (userName) => {
+      if (!startedPromise) 
+          return;
+
+    return startedPromise
+      .then(() => connection.invoke("JoinGame", userName))
+      .catch(console.error);
+    };
+
+    gameHub.GetStartingHand = () => {
+      if (!startedPromise) 
+          return;
+
+      return startedPromise
+        .then(() => connection.invoke("GetStartingHand"))
+        .catch(console.error);
+    };
     // Provide methods for components to send messages back to server
     // Make sure no invocation happens until the connection is established
   }
