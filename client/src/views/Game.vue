@@ -1,7 +1,7 @@
 <template>
     <div class="full_size">
         <div class="header">
-            <div class="header_logout" v-on:click="logoutFunction()" to="/">
+            <div class="header_logout" v-on:click="logoutFunction()">
                 <svg class="" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M16 17l5-5-5-5M19.8 12H9M10 3H4v18h6"/></svg>
             </div>
         </div>
@@ -11,7 +11,8 @@
                     <h3>{{$t("GAME_POINTS")}}{{currentPoints}}</h3>
                 </div>
                 <h2 class="information_player">{{currentChooser}} {{$t("GAME_CZAR")}}</h2>
-                <h3>{{$t("GAME_TIME")}} {{currentTimer}}</h3>
+                <h3 v-show="IsRoundStarting">{{$t("GAME_TIME")}} {{roundVisualCounter}}</h3>
+                <h3 v-show="IsChooserStarting">{{$t("GAME_TIME")}} {{chooserVisualCounter}}</h3>
             </div>
             <div class="game_content__placement">
                 <div class="placement_black">
@@ -24,10 +25,10 @@
                     <h3 class="cards_title_black">{{chosenCardText}}</h3>
                 </div>
             </div>
-            <input v-show="chosenCard" v-on:click="sendChosenCard(chosenCardText)" class="game_content__submit" type="submit" :value="`${this.$t('GAME_CONFIRM')}`"> 
+            <input v-show="chosenCard" v-on:click="sendChosenCard(chosenCard)" class="game_content__submit" type="submit" :value="`${this.$t('GAME_CONFIRM')}`"> 
             <div class="game_content__cards">
                 <div class="cards_container">
-                    <cards @clicked="onClickChild" v-for="c in cards" :key="c.id" :cardText="c.cardText" :cardIndex="c.cardIndex" />
+                    <cards @clicked="onClickChild" v-for="c in Playercards" :key="c.id"  :card="c" />
                 </div>
             </div>
         </div>
@@ -80,24 +81,25 @@ export default {
         logoutFunction: function(){
             this.$store.dispatch('logout');
             window.localStorage.removeItem('readyState');
-            this.$router.back('login');
+            this.$router.push('login');
         },
         onClickChild: function (value) {
             this.chosenCard = true // someValue
-            console.log(card);
-
-            this.chosenCard = card;
+            this.chosenCard = value;
+            this.chosenCardText = value.cardText;
             //doorsturen naar backend
         },
-        // sendChosenCard: function (value){
-        //     console.log("nu zou de card moeten doorgestuurd worden" + value);
-        //       this.$router.push({ path: `/leaderboard` }) // -> /user/123
-        // },
+        sendChosenCard: function (value){
+            console.log("Selected Card")
+            console.log(value);
+            this.$gameHub.ClientSelectedCard(value);
+
+        },
         startCountdownRound: function(){
-            this.roundTimerId = setInterval(this.roundCountdown, this.roundTimerId, this.roundVisualCounter, "start-chooser-round");
+            this.roundTimerId = setInterval(this.countdown(this.roundCountdown, this.roundTimerId, this.roundVisualCounter, "start-chooser-round"), 1000);
         },
         startCountdownChooser: function(){
-            this.roundTimerId = setInterval(this.chooserCountdown, this.chooserTimerId, this.chooserVisualCounter, "send-chosen-card");
+            this.chooserTimerId = setInterval(this.chooserCountdown, this.chooserTimerId, this.chooserVisualCounter, "send-chosen-card");
         },
         countdown: function(typeCountdown, timerId, visualCounter, message){
             if (typeCountdown == 0) {
@@ -110,20 +112,24 @@ export default {
             }
         },
         ReceiveStartingHand: function (hand){
-            this.cards = hand;
+            this.Playercards = hand;
             console.log(hand);
         },
         ReceiveRoundInfo: function (info){
             console.log(info);
+            this.blackCardValue = info.blackCard.cardText;
+            this.currentChooser = info.czar;
         },
         GameRound: function() {
             // TODO
+            // 1. Ask the backend for round info (what black card, who the czar is etc)
             this.$gameHub.GetRoundInfo();
-            // 1. Tell the backend to initiate a round
-            //      Picks a Czar 
-            //      Picks a black card for the round
-            // 1. Get Roles from Backend (Czar/Pleb)
-            // 2. Ask the black
+            // TODO
+            // 2. Check if Czar, if so act accordingly
+
+            // 3. Start a 30 second countdown
+
+            // 4. If timer is done, send random card 
         }
     },
     created(){

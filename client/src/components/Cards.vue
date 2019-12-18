@@ -1,6 +1,6 @@
 <template>
-    <div v-on:click="ChooseCard(cardIndex)" class="cards_white">
-        <h3 class="cards_title_black">{{cardText}}</h3>
+    <div v-on:click="ChooseCard(card)" class="cards_white">
+        <h3 class="cards_title_black">{{card.cardText}}</h3>
     </div>   
 </template>
 
@@ -13,8 +13,10 @@ export default {
         }
     },
     props:{
-        cardText: String,
-        cardIndex: Number,
+        card: {
+            cardText: String,
+            cardIndex: Number,
+        }
     },
     methods:{
         ChooseCard: function(index){

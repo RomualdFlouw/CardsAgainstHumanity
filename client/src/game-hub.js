@@ -91,6 +91,17 @@ export default {
         .then(() => connection.invoke("GetRoundInfo"))
         .catch(console.error);
     };
+
+    gameHub.ClientSelectedCard = (card) => {
+      if (!startedPromise) 
+          return;
+
+      return startedPromise
+        .then(() => connection.invoke("ClientSelectedCard", card))
+        .catch(console.error);
+    };
+
+    
     // Provide methods for components to send messages back to server
     // Make sure no invocation happens until the connection is established
   }
